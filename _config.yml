@@ -16,7 +16,7 @@
 title: SOCRATES -- your politely asking ethics guide
 email: smo@leibniz-hbi.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Concise, and helpful guidance to pursue legal and ethical research with digital trace data, particularly online communication and online media data.
+  Concise and helpful guidance to pursue legal and ethical research with digital trace data, particularly online communication and online media data.
 baseurl: "/socrates" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leibniz-hbi
