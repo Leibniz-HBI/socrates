@@ -67,21 +67,21 @@ Finally, we explicitly emphasize that this ethics guide operates in an emerging 
 
 This section aims at providing some general context about the research project and is based on similar (or sometimes literally the same) questions by the [Information Commissioner’s Office by the UK government.](https://ico.org.uk/media/for-organisations/documents/2553993/dpia-template.docx)
 
-### The Project
+## The Project
 
 1. Explain broadly the background of your project, what it aims to achieve and what type of **data processing** this involves. This should include information like a) potential project partners and/or sponsors b) research aims c) a list of data sources d) [types of data](https://aoir.org/wp-content/uploads/2017/01/aoir_ethics_graphic_2016.pdf) e) methods proposed for data collection and analysis (please detail potential data triangulation), f) plans for dissemination of research findings and/or data. You may find it helpful to refer or link to other documents, such as a project proposal or the [GDPR documentation template](https://docs.google.com/document/d/1gWTOzWHKP6In9cV18tbTLQYqj1iOkv6mAkZWokuxliY/edit?usp=sharing).
 
 >Processing data: Processing of data is any operation such as the collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure, or destruction of personal data. (see European Commission: What constitutes data processing?)
 
-**The purposes of the data processing**
+## The purposes of the data processing
 
 2. What do you want to achieve? What are the benefits of the data processing – for you, your stakeholders, and society at large?
 
-**The research subjects**
+## The research subjects
 
 3. Who are your research subjects? Are public figures, public speakers, children, or other _vulnerable groups_ included?
 
->**Research subject:** A person who is the subject of study and whose personal information is used in that research. This information may be gathered directly from the individual or obtained indirectly. This explicitly includes all theoretically identifiable individuals whose data are processed during your research, even if they are not the main subject of your research (for example, Twitter followers of a person of public interest). (Source: Oxford University Research support Glossary, Human participants)
+> **Research subject:** A person who is the subject of study and whose personal information is used in that research. This information may be gathered directly from the individual or obtained indirectly. This explicitly includes all theoretically identifiable individuals whose data are processed during your research, even if they are not the main subject of your research (for example, Twitter followers of a person of public interest). (Source: Oxford University Research support Glossary, Human participants)
 
 > **Public figures and public speakers:** Different degrees of prominence and publicity of your research subjects have implications on what might be considered legal and ethical research. Public figures (e.g. politicians or journalists) or public speakers (research subjects prominently participating in public discourse) have different expectations towards the publicity of their data and their data has higher relevance for public discourse and opinion formation than it might be the case for members of the general public. However, even if the processing of such data is thus justifiable to a greater extent, public prominence must not be understood as a blank check for data processing.
 
