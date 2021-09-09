@@ -114,11 +114,11 @@ blockquote {
   transition: height 4s;
 
   &.inactive {
-    background: -webkit-linear-gradient(darkgrey, transparent);
+    background: -webkit-linear-gradient(#222, transparent);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    height: 50pt;
+    height: 60pt;
   }
   
   &.active {
