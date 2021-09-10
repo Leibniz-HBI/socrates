@@ -80,7 +80,7 @@ This section aims at providing some general context about the research project a
 
 ## The research subjects
 
-{:style="list-style-type: none;"}
+{:start="3"}
 3. Who are your research subjects? Are public figures, public speakers, children, or other _vulnerable groups_ included?
 
 > **Research subject:** A person who is the subject of study and whose personal information is used in that research. This information may be gathered directly from the individual or obtained indirectly. This explicitly includes all theoretically identifiable individuals whose data are processed during your research, even if they are not the main subject of your research (for example, Twitter followers of a person of public interest). (Source: Oxford University Research support Glossary, Human participants)
@@ -106,6 +106,7 @@ There are two major ethical concerns with the issue of processing personal data:
 
 ### Harm avoidance
 
+{:start="5"}
 5. How could your research subjects potentially experience harm as a result of your data processing? If your research subjects include vulnerable groups, please specify the potential harms for these specific groups. Please refer back to question 1) and details like data sources, data types, data collection and analysis (especially privacy invasive approaches such as data triangulation) as well as data dissemination and archiving. 
 6. How do you intend to minimize such risk? Please elaborate on your measures, e.g. a strict application of data minimization, anonymisation, security and safety rules and/or a non-dissemination and/or a (partial) deletion of the data. If your research subjects include vulnerable groups, please elaborate how you intend to address a potentially higher risk for these groups (if you intend to fill out the GDPR section below, you are welcome to provide a short summary and refer to the more detailed questions and answers below, and/or to refer to the GDPR documentation template).
 7. If you cannot rule out the possibility that your research subjects may experience harm as a result of your data processing, do you think your research goal still justifies the processing of the data? If yes, why do you think so? Your response should include references to your answers to the questions 2,3, 5 and 6.  
@@ -126,6 +127,7 @@ While the need to protect such vulnerable groups seems intuitive, it is importan
 
 ### Informed consent
 
+{:start="8"}
 8. Is the data you want to process publicly available (i.e. no registration needed to view the data)? If not, what steps are necessary to access the data (e.g. registration, entering groups or channels, answering questions to enter groups or channels, admission by a moderator, etc.)?
 9. What do you think are the (reasonable) expectations of the research subjects regarding their data being processed by researcher(s)? Do you think they might anticipate such processing?
 10. If the data is not public, do you have any indications that the research subjects might consent to you processing the data?
@@ -155,12 +157,14 @@ While the need to protect such vulnerable groups seems intuitive, it is importan
 
 Unreflective dissemination of research data and insights within the context of sensitive research fields, for example mental health or extremism research, can lead to the amplification of harmful content or ideology. Researcher(s) investigating such a field must therefore carefully reflect on whether and how data and insights can and should be shared.
 
+{:start="13"}
 13. If your research is centered around sensitive issues, such as mental health (e.g. self-harm or eating disorders), abuse, misogyny, disinformation, or extremism research, how do you address the potential problem of amplifying harmful content?
 
 > **Amplification**: The concept of amplification of harmful content and ideology has gained increasing attention in the context of media reporting on extremist ideology. In this case, it describes the process of unreflective coverage of extremist ideology and activity that can lead to an unintentional amplification of this kind of ideology. Similar discussions of harmful unintentional side effects of media coverage on sensitive issues center around suicides or mass shootings. While these debates are mostly focused on media coverage, research in general faces similar challenges: An unreflective dissemination of the research and its results could similarly lead to unintentional harmful consequences. For example, a disclosure of extremist communities and accounts could draw further people to  them. It is therefore crucial for this kind of research to carefully reflect on whether and how findings and data can and should be shared. Here, a careful balancing between harm avoidance and good science principles like open science needs to be pursued. Potential solutions can, for example, include the introduction of additional safeguards, e.g., sharing data only upon request with trustworthy institutions and individuals.
 
 ## 3.3 Ethics: Researchers’ safety
 
+{:start="14"}
 14. Have you informed yourself about potential risks for your own safety related to your research and are you confident that sufficient counter-measures are in place to minimize such risks? (Note: Here, a simple “yes” will be sufficient in most cases, but we want to highlight the importance of this question. Please see below for some resources and feel free to ask us for more.)
 
 > **Researcher safety:** As highlighted in Internet Research Ethics 3.0, there is a growing need to protect the safety of researchers. Phenomena such as "Gamergate" and similar events highlight comparatively new risks and levels of risk posed to researchers whose work – and/or simply their public identity (e.g., ethnicity, minority identity, sexual identity, political activism, etc.) – triggers strong, often ideological reactions: these include personal insults, death threats, "doxing" (publishing private information about the researcher, thereby fanning the flames of further hate speech, threat, etc.) and so on. Similarly, research on violent online and offline political extremists, including jihadists, risks direct threats and retaliation if researchers' identities are exposed. To counter such risks, appropriate measures starting with personal data safety and crisis communication strategies should be in place.
@@ -198,6 +202,7 @@ To make sure that the researcher(s) comply with all legal obligations and requir
 
 **Scope of GDPR**
 
+{:start="15"}
 15. Does your project involve the processing of personal data?
 16. Does your project involve the processing of special categories of personal data? 
 
@@ -214,6 +219,7 @@ To make sure that the researcher(s) comply with all legal obligations and requir
 
 For processing personal or special category data under the GDPR, you need a legal basis to do so. Please have a look at the infobox below for more information about what kind of legal basis might be suitable for your research.
 
+{:start="17"}
 17. Do you use **[ Art 6 (1) f) GDPR](https://gdpr.eu/article-6-how-to-process-personal-data-legally/) in connection with [Art 85 GDPR](https://gdpr.eu/article-85-right-to-freedom-of-expression-and-information/), [§ 27 BDSG](https://www.gesetze-im-internet.de/englisch_bdsg/englisch_bdsg.html#p0239)** to conduct your research (see information box below for information about the legal basis of your research)? **If no, simply answer no.** If yes, please elaborate why it is an appropriate legal basis for your research and how you intend to comply with the respective legal obligations. To do so, please specify:
 
 - a) Why is the data processing necessary to achieve your research goal?
@@ -221,6 +227,7 @@ For processing personal or special category data under the GDPR, you need a lega
 - c) Do you intend to anonymize your data? If not, why is this case and how will you proceed instead?
 - d) If you intend to publish the data, do you have consent to do so or can you convincingly argue that this is indispensable for presenting research findings on events in contemporary history?
 
+{:start="18"}
 18.  Do you use **a different legal basis** than [Art 6 (1) f](https://gdpr.eu/article-6-how-to-process-personal-data-legally/) in connection with[ Art 85 GDPR](https://gdpr.eu/article-85-right-to-freedom-of-expression-and-information/), [§ 27 BDSG](https://www.gesetze-im-internet.de/englisch_bdsg/englisch_bdsg.html#p0239) for data processing in pursuing your research? **If no, simply answer no.** If yes, please detail how you intend to comply with the respective requirements. As an example: Informed consent might free you from some obligations (e.g. anonymization), but might impose additional ones on you (e.g. that research subjects have the right to revoke their consent and you must be able to delete their data at any point in time). Make sure to list all relevant details regarding your legal basis and how you comply with it.
 
 > **Legal basis:** To ensure and document the lawfulness of the processing of personal data, there is a wide range of potential legal bases from which you can choose the most appropriate one for your specific research project. Within the scope of this paper, however, we focus on a specific derogation provided by the GDPR in Art. 6 (1) f in conjunction with Art. 85, which covers certain types of data processing for research purposes. This basis embraces the majority of research involving digital trace data, particularly online communication and online media data.
@@ -247,6 +254,7 @@ For processing personal or special category data under the GDPR, you need a lega
 
 **Data Minimization**
 
+{:start="19"}
 19.  Are the items of personal data/special category data to be collected at the minimum level that is necessary to achieve the research objectives, while still being suitable for the research purposes?
 20.  Has the possibility of using anonymized or pseudonymized data been considered? (See [Data Protection & Research](https://researchsupport.admin.ox.ac.uk/files/dataprotectionandresearchpdf) C2.) Explain how/why the data will (not) be anonymised or pseudonymised. (Note: You are obliged to anonymize if possible and you need to justify if you do not intend to do so.)
 21.  Will access to the participants’ personal data/special category data be restricted to authorized persons? Will there be different access layers within the research team? Will these layers be clearly documented?
@@ -262,15 +270,18 @@ For processing personal or special category data under the GDPR, you need a lega
 
 **Security**
 
+{:start="25"}
 25. Will personal data/special category data be collected, transmitted, and stored securely? For example, will it be encrypted in transit and/or storage and how is access control implemented, also and in particular on remote or mobile hardware?
 26. Is the level of security to be provided appropriate to the risks posed by the processing? If you are undertaking high risk research (e.g. particularly sensitive data, particularly intrusive methods, particularly vulnerable research subjects) please elaborate on how your security measures account for such an increased level of risk.
 
 **Accountability**
 
+{:start="27"}
 27. Will you provide records of all processing activities, including information about the data, the data source, the involved research subjects, the legal basis for the processing, the nature of the data, the scope of the data, a list of all processing activities and their timeline, as well as technical and organizational for data minimization and security? (Note: We propose that this requirement by the GDPR will be met by filling out the linked [data flow information chart](https://docs.google.com/document/d/1gWTOzWHKP6In9cV18tbTLQYqj1iOkv6mAkZWokuxliY/edit?usp=sharing).)
 
 **Other Safeguards**
 
+{:start="28"}
 28. Are all individuals involved in processing aware of the importance of data protection and how it can be achieved? (Note: This could be achieved, for example, via regular awareness training and onboarding protocols.)
 29. Is there a procdeure in place to ensure the security of the processing via regular monitoring, assessment and evaluation of the effectiveness of the technical and organizational measures?
 30. Do you have a data protection officer to oversee your data processing? (Note: If your data processing is not particularly intrusive, you might not need a data protection officer. However, in cases of intrusive data processing, it might be an important additional safety layer to secure a legal and ethical process).
@@ -295,17 +306,19 @@ For processing personal or special category data under the GDPR, you need a lega
 
 ## 4.2 Legal: Terms and Conditions of Social Media Platforms or Social Networking Apps
 
+{:start="35"}
 35. Do you expect a breach of terms and conditions of a service you are researching? If yes:
 
-- a) Are there other ways of conducting this research to avoid the breach?
-- b) Do you plan to use a developer account or other data sources by the platform that require agreement to special terms? (Note: The platform might deactivate or delete your account if you breach the ToS).  
-- c) Is your data collection embedded in a non-commercial and non-profit research project and is the data collection necessary to pursue your research?
-- d) Does your data collection focus on certain parts of the social media platform rather than the platform as a whole?
+    a) Are there other ways of conducting this research to avoid the breach?
+    b) Do you plan to use a developer account or other data sources by the platform that require agreement to special terms? (Note: The platform might deactivate or delete your account if you breach the ToS).  
+    c) Is your data collection embedded in a non-commercial and non-profit research project and is the data collection necessary to pursue your research?
+    d) Does your data collection focus on certain parts of the social media platform rather than the platform as a whole?
 
 > **Web Scraping and Terms and Conditions:** The Terms and Conditions (T&C) or Terms of Service (ToS) of Social Media Platforms or Social Networking Apps often contain phrases that limit or forbid the possibility of automatic data collection without explicit permission. However, as Golla and v. Schönfeld point out, such a limitation might be a unilateral and, in the absence of legal binding force, non-binding condition, as long as the data is publicly available and can therefore be collected without agreeing to the ToS. While web scraping of publicly available data for scientific research purposes is indeed connected to various legal uncertainties, it can generally be considered legal as long as it is limited to certain parts of the platform (as opposed to the platform as a whole) and as long as it is necessary to pursue the research. (Reminder: This section reflects the German legal situation and might differ in other legislations.)
 
 ## 4.3 Legal: Copyright
 
+{:start="36"}
 36. Is the material you wish to use protected by copyright?
 37. If so, what is your legal basis for processing the data and why is it appropriate for your data processing?
 
