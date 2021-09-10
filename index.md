@@ -80,6 +80,7 @@ This section aims at providing some general context about the research project a
 
 ## The research subjects
 
+{:style="list-style-type: none;"}
 3. Who are your research subjects? Are public figures, public speakers, children, or other _vulnerable groups_ included?
 
 > **Research subject:** A person who is the subject of study and whose personal information is used in that research. This information may be gathered directly from the individual or obtained indirectly. This explicitly includes all theoretically identifiable individuals whose data are processed during your research, even if they are not the main subject of your research (for example, Twitter followers of a person of public interest). (Source: Oxford University Research support Glossary, Human participants)
@@ -90,6 +91,7 @@ This section aims at providing some general context about the research project a
 
 **Additional information**
 
+{:start="4"}
 4. Are there prior concerns over this type of data processing or security concerns? Is it novel in any way? Are there any current issues of public concern that you should consider and address?
 
 > **Misuse of research:** Your research might involve methods, technologies, data or generate knowledge that has the potential to harm individuals or society if used for unethical ends. While the risk of misuse of research can never be eliminated, it can be reduced by identifying risks and implementing precautions. We want to encourage you to ask yourself whether you can see such a potential for misuse for your own research. If so, it might be appropriate to not only conduct an ethical assessment as provided by this document, but also to conduct a risk assessment for your research project.
