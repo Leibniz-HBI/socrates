@@ -138,7 +138,6 @@ While the need to protect such vulnerable groups seems intuitive, it is importan
 10. If the data is not public, do you have any indications that the research subjects might consent to you processing the data?
 11. If the data is not public and you have no or only weak indications that the research subjects consent with the data being processed, do you think your research goal still justifies the processing of the data? If yes, why do you think so?
 12. Do you intend to provide general transparency information about your data processing? If yes, does the information indicate:
-
   a) the categories of personal data to be processed?
   b) the source of the personal data, and whether it came from public sources?
   c) the purposes for which personal data/special category data will be processed?
@@ -150,11 +149,11 @@ While the need to protect such vulnerable groups seems intuitive, it is importan
 
 > **Informed consent:** Oxford University Research Support describes informed consent as one of the founding principles of research ethics, which aims to ensure that human participants can enter research freely (voluntarily) and with full information about what it means for them to take part, as well as giving their consent before participating in the research. However, as highlighted in Internet Research Ethics 3.0 by the Association of Internet Researchers, this kind of consent is clearly impractical in the case of big data projects. While the question of consent remains controversial, there is agreement that the following factors should be considered when deciding whether or not explicit consent is needed for processing data of research subjects:
 
-- Research purpose (the degree of public interest in and public benefit of the research. For some types of research and their research goals, processing data against the will of the research subjects lies in the nature of the research field, which may  be the case for research on disinformation or cyberbullying, for example).
-- Publicly available data vs. not publicly available data (technical layers of accessibility. E.g. the researcher needs to register or get a moderator's approval before viewing data).
-- Public figures (e.g. politicians or journalists) vs. public speakers vs. general public (e.g. ordinary citizens).
+> - Research purpose (the degree of public interest in and public benefit of the research. For some types of research and their research goals, processing data against the will of the research subjects lies in the nature of the research field, which may  be the case for research on disinformation or cyberbullying, for example).
+> - Publicly available data vs. not publicly available data (technical layers of accessibility. E.g. the researcher needs to register or get a moderator's approval before viewing data).
+> - Public figures (e.g. politicians or journalists) vs. public speakers vs. general public (e.g. ordinary citizens).
 - Expectations of the research subjects: They might not perceive their online activity as "public" or might not expect more attentio    n beyond their immediate online community, even though their posts are technically publicly accessible).
-- Type of processing (e.g. analysis vs. dissemination).
+> - Type of processing (e.g. analysis vs. dissemination).
 
 > **Transparent processing:** If you are processing personal data of individuals, being transparent about this data processing strengthens the individuals rights and their possibilities to object to the data processing. However, in research with passive digital trace data about online communication, such a requirement would make this kind of research mostly unfeasible. The GDPR as an example (which usually requires that participants are informed about data processing for research purposes), reflects this challenge with an exemption of the obligation to inform if it implies a disproportionate effort. Still, we believe that some form of transparency about the research and the data processing should be established, as it can help to achieve a certain level of scrutiny towards the public and potentially involved research subjects. This could be achieved, for example, by publishing respective information on your website (before the start of the data collection) and by open-sourcing your methods.
 
