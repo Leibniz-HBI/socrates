@@ -309,6 +309,7 @@ For processing personal or special category data under the GDPR, you need a lega
 {:start="35"}
 35. Do you expect a breach of terms and conditions of a service you are researching? If yes:
 
+    {:style="list-style-type: a;"}
     a) Are there other ways of conducting this research to avoid the breach?
     b) Do you plan to use a developer account or other data sources by the platform that require agreement to special terms? (Note: The platform might deactivate or delete your account if you breach the ToS).  
     c) Is your data collection embedded in a non-commercial and non-profit research project and is the data collection necessary to pursue your research?
