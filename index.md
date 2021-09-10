@@ -107,6 +107,7 @@ There are two major ethical concerns with the issue of processing personal data:
 ### Harm avoidance
 
 {:start="5"}
+
 5. How could your research subjects potentially experience harm as a result of your data processing? If your research subjects include vulnerable groups, please specify the potential harms for these specific groups. Please refer back to question 1) and details like data sources, data types, data collection and analysis (especially privacy invasive approaches such as data triangulation) as well as data dissemination and archiving. 
 6. How do you intend to minimize such risk? Please elaborate on your measures, e.g. a strict application of data minimization, anonymisation, security and safety rules and/or a non-dissemination and/or a (partial) deletion of the data. If your research subjects include vulnerable groups, please elaborate how you intend to address a potentially higher risk for these groups (if you intend to fill out the GDPR section below, you are welcome to provide a short summary and refer to the more detailed questions and answers below, and/or to refer to the GDPR documentation template).
 7. If you cannot rule out the possibility that your research subjects may experience harm as a result of your data processing, do you think your research goal still justifies the processing of the data? If yes, why do you think so? Your response should include references to your answers to the questions 2,3, 5 and 6.  
