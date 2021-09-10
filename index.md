@@ -75,6 +75,7 @@ This section aims at providing some general context about the research project a
 
 ## The purposes of the data processing
 
+{:start="2"}
 2. What do you want to achieve? What are the benefits of the data processing – for you, your stakeholders, and society at large?
 
 ## The research subjects
