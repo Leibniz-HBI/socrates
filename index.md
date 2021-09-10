@@ -229,11 +229,10 @@ For processing personal or special category data under the GDPR, you need a lega
 {:start="17"}
 
 17. Do you use **[ Art 6 (1) f) GDPR](https://gdpr.eu/article-6-how-to-process-personal-data-legally/) in connection with [Art 85 GDPR](https://gdpr.eu/article-85-right-to-freedom-of-expression-and-information/), [§ 27 BDSG](https://www.gesetze-im-internet.de/englisch_bdsg/englisch_bdsg.html#p0239)** to conduct your research (see information box below for information about the legal basis of your research)? **If no, simply answer no.** If yes, please elaborate why it is an appropriate legal basis for your research and how you intend to comply with the respective legal obligations. To do so, please specify:
-
-  a) Why is the data processing necessary to achieve your research goal?
-  b) Does your research interest substantially outweigh the interests of your research subjects? You are welcome to build your arguments on your answers to the previous questions. Please also consider the additional information about fair processing and participant rights. 
-  c) Do you intend to anonymize your data? If not, why is this case and how will you proceed instead?
-  d) If you intend to publish the data, do you have consent to do so or can you convincingly argue that this is indispensable for presenting research findings on events in contemporary history?
+    - a) Why is the data processing necessary to achieve your research goal?
+    - b) Does your research interest substantially outweigh the interests of your research subjects? You are welcome to build your arguments on your answers to the previous questions. Please also consider the additional information about fair processing and participant rights. 
+    - c) Do you intend to anonymize your data? If not, why is this case and how will you proceed instead?
+    - d) If you intend to publish the data, do you have consent to do so or can you convincingly argue that this is indispensable for presenting research findings on events in contemporary history?
 
 {:start="18"}
 
@@ -322,10 +321,10 @@ For processing personal or special category data under the GDPR, you need a lega
 {:start="35"}
 
 35. Do you expect a breach of terms and conditions of a service you are researching? If yes:
-  A. Are there other ways of conducting this research to avoid the breach?
-  B. Do you plan to use a developer account or other data sources by the platform that require agreement to special terms? (Note: The platform might deactivate or delete your account if you breach the ToS).  
-  C. Is your data collection embedded in a non-commercial and non-profit research project and is the data collection necessary to pursue your research?
-  D. Does your data collection focus on certain parts of the social media platform rather than the platform as a whole?
+  - a) Are there other ways of conducting this research to avoid the breach?
+  - b) Do you plan to use a developer account or other data sources by the platform that require agreement to special terms? (Note: The platform might deactivate or delete your account if you breach the ToS).  
+  - c) Is your data collection embedded in a non-commercial and non-profit research project and is the data collection necessary to pursue your research?
+  - d) Does your data collection focus on certain parts of the social media platform rather than the platform as a whole?
 
 > **Web Scraping and Terms and Conditions:** The Terms and Conditions (T&C) or Terms of Service (ToS) of Social Media Platforms or Social Networking Apps often contain phrases that limit or forbid the possibility of automatic data collection without explicit permission. However, as Golla and v. Schönfeld point out, such a limitation might be a unilateral and, in the absence of legal binding force, non-binding condition, as long as the data is publicly available and can therefore be collected without agreeing to the ToS. While web scraping of publicly available data for scientific research purposes is indeed connected to various legal uncertainties, it can generally be considered legal as long as it is limited to certain parts of the platform (as opposed to the platform as a whole) and as long as it is necessary to pursue the research. (Reminder: This section reflects the German legal situation and might differ in other legislations.)
 
