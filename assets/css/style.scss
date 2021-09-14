@@ -111,19 +111,19 @@ blockquote {
   cursor: pointer;
   margin-bottom: 20px;
   overflow: hidden;
-  transition: height 4s;
+  // transition: height 4s;
 
-  &.inactive {
-    background: -webkit-linear-gradient(darkgrey, lightgrey);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    height: 5%;
-  }
+  // &.inactive {
+  //   // background: -webkit-linear-gradient(darkgrey, lightgrey);
+  //   // -webkit-background-clip: text;
+  //   // background-clip: text;
+  //   // -webkit-text-fill-color: transparent;
+  //   height: 1em;
+  // }
   
-  &.active {
-    height: 100%;
-  }
+  // &.active {
+  //   height: 100%;
+  // }
 }
 
 .paper-title {
