@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SOCRATES -- your politely aksing ethics guide
+title: SOCRATES -- your politely asking ethics guide
 email: smo@leibniz-hbi.de
 description: >- # this means to ignore newlines until "baseurl:"
-  The aim of this document is to provide practice-oriented, concise, and helpful guidance to pursue legal and ethical research with digital trace data, particularly online communication and online media data. The guide asks researchers questions which they should answer before, during and after the research process and combines these questions with information that helps to address them. The guide covers ethical and legal challenges including harm avoidance towards and informed consent by research participants, amplification of harmful content, and researchers’ safety on the one hand and legal challenges including data protection, terms of services of social media platforms, as well as  copyright on the other hand. While the ethics section of the guide addresses questions that are relevant for an international research community, the legal section will be most helpful for researchers based in Germany due to national legislation boundaries.
+  Concise and helpful guidance to pursue legal and ethical research with digital trace data, particularly online communication and online media data.
 baseurl: "/socrates" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leibniz-hbi

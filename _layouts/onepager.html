@@ -39,13 +39,15 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
-        {% if site.show_downloads %}
         <ul class="downloads">
+          <li><a href="https://github.com/Leibniz-HBI/socrates/blob/main/index.pdf">Download <strong>PDF</strong></a></li>
+          <li><a href="https://github.com/Leibniz-HBI/socrates/blob/main/index.md">View On <strong>GitHub</strong></a></li>
+          <li><a href="https://github.com/Leibniz-HBI/socrates/issues">Raise An <strong>Issue</strong></a></li>
+          {% if site.show_downloads %}
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
           <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+          {% endif %}
         </ul>
-        {% endif %}
 <!--        <div class="search">
         <form method="get" id="search" action="https://duckduckgo.com/">
         <input type="hidden" name="sites" value="smo-wiki.leibniz-hbi.de directly"/>
@@ -105,7 +107,7 @@
         </div></br>
         <p>Made with <a href="https://jekyllrb.com/"> Jekyll</a>.
           Theme based on <a href=https://github.com/orderedlist/minimal/>Minimal</a>.
-        Hosted on <a href="https://github.com/Leibniz-HBI/smo-wiki">Github</a>.</p>
+        Hosted on <a href="https://github.com/Leibniz-HBI/socrates/">Github</a>.</p>
         <a href="https://smo.leibniz-hbi.de/imprint">Imprint</a> | <a href="https://smo.leibniz-hbi.de/privacy">Privacy</a>
       </footer>
 
