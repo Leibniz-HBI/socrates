@@ -113,17 +113,17 @@ blockquote {
   overflow: hidden;
   // transition: height 4s;
 
-  // &.inactive {
-  //   // background: -webkit-linear-gradient(darkgrey, lightgrey);
-  //   // -webkit-background-clip: text;
-  //   // background-clip: text;
-  //   // -webkit-text-fill-color: transparent;
-  //   height: 1em;
-  // }
+  &.inactive {
+    background: -webkit-linear-gradient(#222, transparent);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    height: 60pt;
+  }
   
-  // &.active {
-  //   height: 100%;
-  // }
+  &.active {
+    height: 100%;
+  }
 }
 
 .paper-title {
