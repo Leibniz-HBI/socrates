@@ -1,6 +1,10 @@
 #! /bin/bash
 
 # convert to PDF
-pandoc index.md --from gfm+ --table-of-contents --output assets/pdf/socrates.pdf
-# update jekyll site
-# jekyll build
+cat index.md |\
+    sed -e 's/{.*}//' |\
+    pandoc \
+    --from markdown \
+    --output assets/pdf/socrates.pdf \
+    --table-of-contents
+    
