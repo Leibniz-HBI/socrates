@@ -25,7 +25,7 @@ github_username:  Leibniz-HBI
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
-# plugins:
+plugins:
 #   - jekyll-feed
 
 # Exclude from processing.
