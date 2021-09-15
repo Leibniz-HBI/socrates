@@ -9,15 +9,24 @@ The aim of this document is to provide practice-oriented, concise, and helpful g
 
 ## Development
 
-This interactive paper is using [Jekyll](https://www.link-to-jekyll) to produce a static html page. In order to view/change/develop locally run the following commands in your local terminal-emulator:
+This interactive paper is using [Jekyll](https://www.link-to-jekyll) to produce a static html page.
+In order to view/change/develop locally, you'll need to have a installation of jekyll on your system.
+
+To get things going in your browser, take the following steps in the cloned and forked repo:
 
 ```{bash }
-jekyll build # produce a static page
-jekyll serve # start a local server with file watching enabled
+bundle install  # install all the dependencies
+jekyll serve    # start a local server with file watching enabled
+```
+
+To generate the PDF-version of the paper, run the following command:
+
+```
+bash update.bash
 ```
 
 For further details  do consult the Jekyll documentation at the [Jekyll homepage]().
 
 ## License
 
-...
+MIT
