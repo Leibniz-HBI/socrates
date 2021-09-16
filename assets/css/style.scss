@@ -138,14 +138,22 @@ p.abstract {
   width: 100%;
 }
 
-ul.authors {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  flex-wrap: nowrap; /* assumes you only want one row */
+ul {
+  &.authors {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: nowrap; /* assumes you only want one row */
+  
+    li {
+      list-style-type: none;
+      display: inline;
+    }
+  }
 
-  li {
-    list-style-type: none;
-    display: inline;
+  &.institutes {
+    @extend ul.authors;
+    font-style: italic;
+    padding-top: 2em;
   }
 }

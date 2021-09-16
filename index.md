@@ -6,6 +6,7 @@ author:
   - "Jan Rau"
   - "Felix Münch"
   - "Mani Asli"
+institute: "Leibniz-Institute for Media Research"
 title: "SOCRATES: Social Media Research Assessment Template for Ethical Scholarship"
 subtitle: "Your politely asking data ethics guide"
 abstract: "The aim of this document is to provide practice-oriented, concise, and helpful guidance to pursue legal and ethical research with digital trace data, particularly online communication and online media data. The guide asks researchers questions which they should answer before, during and after the research process and combines these questions with information that helps to address them. The guide covers ethical and legal challenges including harm avoidance towards and informed consent by research participants, amplification of harmful content, and researchers’ safety on the one hand and legal challenges including data protection, terms of services of social media platforms, as well as  copyright on the other hand. While the ethics section of the guide addresses questions that are relevant for an international research community, the legal section will be most helpful for researchers based in Germany due to national legislation boundaries."
@@ -29,15 +30,13 @@ abstract: "The aim of this document is to provide practice-oriented, concise, an
   }, 75)
 </script>
 
----
-
 If you use this guide in your research, please cite it like this:
 
 `Jan Rau, Felix Münch, Mani Asli (2021): Social Media Research Assessment Template for Ethical Scholarship (SOCRATES): Your politely asking data ethics guide. (Social) Media Observatory.`
 
 **Disclaimer:** This ethics guide is a living document, compiled according to our best knowledge and intent. We consider it already very useful. However, due to its new and fast evolving subject matter, it might include false or misleading information. We cannot accept any liability for the recommendations laid out here, please double check with a legal and/or ethics expert, if in doubt.
 
----
+---------
 
 # 1. Introduction
 
