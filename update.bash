@@ -5,6 +5,5 @@ cat index.md |\
     sed -e 's/{.*}//' |\
     pandoc \
     --from markdown \
-    --output assets/pdf/socrates.pdf \
-    --table-of-contents
+    --output assets/pdf/socrates.pdf
     
